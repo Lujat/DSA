@@ -1,1 +1,2 @@
 #hello luật
+#init 
